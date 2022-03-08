@@ -1,0 +1,9 @@
+{
+    "name": "Jenkins Security Scan",
+    "description": "Code scanner identifying common Jenkins plugin development pitfalls. Learn more: https://jenkins.io/redirect/jenkins-security-scan",
+    "iconName": "jenkins-security",
+    "filePatterns": [
+        "^pom[.]xml$",
+        "^build[.]gradle$"
+    ]
+}
