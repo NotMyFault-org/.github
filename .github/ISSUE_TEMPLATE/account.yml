@@ -13,7 +13,7 @@ body:
         Fill in as much of the template below as you can.
         The more information we have the better we can help you.
 
-        You can reset the password of your Jenkins account (issues.jenkins.io, *.jenkins.io websites) by visiting the page accounts.jenkins.io and clicking on "reset my password".
+        You can reset the password of your Jenkins account (issues.jenkins.io, *.jenkins.io websites) by visiting the page [accounts.jenkins.io](https://accounts.jenkins.io/passwordReset) and clicking on "reset my password".
   - type: dropdown
     id: type
     attributes:
