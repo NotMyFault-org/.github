@@ -92,7 +92,6 @@ body:
       
   - type: markdown
     attributes:
-      description: Make sure you have followed each of the steps outlined here.
       value: |
           ```[tasklist]
           ### Checklist
