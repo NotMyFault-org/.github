@@ -90,7 +90,7 @@ body:
     validations:
       required: true
       
-  - type: textarea
+  - type: markdown
     attributes:
       label: Checklist
       description: Make sure you have followed each of the steps outlined here.
