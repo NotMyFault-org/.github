@@ -92,7 +92,6 @@ body:
       
   - type: markdown
     attributes:
-      label: Checklist
       description: Make sure you have followed each of the steps outlined here.
       value: |
           ```[tasklist]
@@ -100,8 +99,6 @@ body:
           - [ ] I have included a Fawe debugpaste.
           - [ ] I am using the newest build from https://ci.athion.net/job/FastAsyncWorldEdit/ and the issue still persists.
           ```
-    validations:
-        required: true
 
   - type: textarea
     attributes:
